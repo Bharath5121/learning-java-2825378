@@ -12,5 +12,6 @@ _Software Developer_
 
 [Other Courses by the instructor](https://www.linkedin.com/learning/instructors/kathryn-hodge?u=104)
 
+####
 [lil-course-url]: https://www.linkedin.com/learning/learning-java-4
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2825378/2825378-1584377756312-16x9.jpg
